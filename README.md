@@ -17,7 +17,7 @@ Word Scramble Solver Pro is a powerful Firefox extension designed to enhance you
 
 ## Installation
 
-1. [Download](link-to-extension-download) the extension from the Firefox Add-ons Store.
+1. [Download](https://addons.mozilla.org/addon/wordy-birdy-scramble-game/) the extension from the Firefox Add-ons Store.
 2. Click the "Add to Firefox or Chrome" button.
 3. Follow the installation prompts.
 
