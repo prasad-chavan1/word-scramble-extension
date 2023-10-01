@@ -20,7 +20,7 @@ body{
     font-size: 25px;
     font-weight: 600;
     padding: 18px 25px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #FFE4D6;
 }
 .wrapper .data{
     margin: 25px 20px 35px;
@@ -48,7 +48,7 @@ body{
     height: 60px;
     outline: none;
     padding: 0 16px;
-    border: 1px solid #aaa;
+    border: 1px solid #FFE4D6;
     border-radius: 5px;
     font-size: 18px;
 }
@@ -68,22 +68,20 @@ body{
     border-radius: 5px;
 }
 .buttons .refresh-word{
-    background: #FFE4D6;
+    background: #6e3457;
 }
 .buttons .check-word{
     background: #B0578D;
 }
 /* Add styles for the icons */
 .details .icons img {
-    width: 40px; /* Adjust the size as needed */
+    width: 40px; 
     height: 40px;
-    margin-right: 10px; /* Add some spacing between icons */
-    border-radius: 50%; /* Make the icons circular (for a cute look) */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for depth */
-    transition: transform 0.2s ease-in-out; /* Add a hover effect */
+    margin-right: 10px;
+    border-radius: 50%; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.2s ease-in-out; 
 }
-
-/* Add a hover effect for the icons (scale on hover) */
 .details .icons img:hover {
     transform: scale(1.1);
 }
