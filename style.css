@@ -20,7 +20,7 @@ body{
     font-size: 25px;
     font-weight: 600;
     padding: 18px 25px;
-    border-bottom: 1px solid #FFE4D6;
+    border-bottom: 1px solid #9D76C1;
 }
 .wrapper .data{
     margin: 25px 20px 35px;
@@ -48,7 +48,7 @@ body{
     height: 60px;
     outline: none;
     padding: 0 16px;
-    border: 2px solid #d9ace1;
+    border: 2px solid #9D76C1;
     border-radius: 5px;
     font-size: 18px;
 }
