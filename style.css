@@ -14,7 +14,7 @@ body{
 .wrapper{
     width: 450px;
     border-radius: 7px;
-    background: #fff;
+    background: #FACBEA;
 }
 .wrapper h2{
     font-size: 25px;
@@ -68,8 +68,22 @@ body{
     border-radius: 5px;
 }
 .buttons .refresh-word{
-    background: #6c757d;
+    background: #FFE4D6;
 }
 .buttons .check-word{
-    background: #1bb295;
+    background: #B0578D;
+}
+/* Add styles for the icons */
+.details .icons img {
+    width: 40px; /* Adjust the size as needed */
+    height: 40px;
+    margin-right: 10px; /* Add some spacing between icons */
+    border-radius: 50%; /* Make the icons circular (for a cute look) */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for depth */
+    transition: transform 0.2s ease-in-out; /* Add a hover effect */
+}
+
+/* Add a hover effect for the icons (scale on hover) */
+.details .icons img:hover {
+    transform: scale(1.1);
 }
