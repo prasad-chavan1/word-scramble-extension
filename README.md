@@ -27,6 +27,30 @@ Word Scramble Solver Pro is a powerful Firefox extension designed to enhance you
 - Right-click and select "Unscramble with Word Scramble."
 - Explore the list of possible words and their meanings.
 
+## OR 
+How to activate in chrome browser 
+
+
+![word](https://github.com/sneha-4-22/word-scramble-extension/assets/112711068/043cf2c3-6603-490a-9cac-9482d3ebeede)
+
+
+1. Step 1: **Installation**
+Clone the Repository: Begin by cloning the Word-Scramble repository.
+
+Create the 'Game' Folder: After cloning, create a folder named "Game" and place all the downloaded files into it.
+
+2. Step 2: **Activation**
+
+   ![image](https://github.com/abheer18/timer_extension/assets/72267713/c040aed1-1604-4328-b709-e050704c84ee)
+
+Open Google Chrome: Launch your Google Chrome browser.
+
+Access Extensions: Click on the three dots in the upper-right corner of your browser to open the menu. Navigate to "More tools" and select "Game."
+
+Load Unpacked Extension: In the Extensions page, ensure the "Developer mode" toggle is activated.
+
+Choose Your Folder: Click on the "Load Unpacked" button and select the "Game" folder you created earlier.
+
 ## Feedback and Support
 
 If you encounter any issues or have suggestions for improvement, please [submit an issue](link-to-issue-tracker) on our GitHub repository.
