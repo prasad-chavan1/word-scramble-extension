@@ -7,7 +7,7 @@ let correctWord;
 
 const initGame = async () => {
     try {
-        const response = await fetch("words.json"); 
+        const response = await fetch("https://raw.githubusercontent.com/prasad-chavan1/word-scramble-extension/main/words.json"); 
         if (!response.ok) {
             throw new Error("Failed to fetch data");
         }
